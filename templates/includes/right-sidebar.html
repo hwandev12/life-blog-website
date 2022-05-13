@@ -1,3 +1,4 @@
+{% load static %}
 <div class="col-xl-4 sidebar ftco-animate bg-light pt-5">
   <div class="sidebar-box pt-md-4">
     <form action="#" class="search-form">
@@ -37,7 +38,7 @@
     <div class="block-21 mb-4 d-flex">
       <a
         class="blog-img mr-4"
-        style="background-image: url(images/image_1.jpg)"
+        style="background-image: url({% static 'images/image_1.jpg' %})"
       ></a>
       <div class="text">
         <h3 class="heading">
@@ -59,7 +60,7 @@
     <div class="block-21 mb-4 d-flex">
       <a
         class="blog-img mr-4"
-        style="background-image: url(images/image_2.jpg)"
+        style="background-image: url({% static 'images/image_2.jpg' %})"
       ></a>
       <div class="text">
         <h3 class="heading">
@@ -81,7 +82,7 @@
     <div class="block-21 mb-4 d-flex">
       <a
         class="blog-img mr-4"
-        style="background-image: url(images/image_3.jpg)"
+        style="background-image: url({% static 'images/image_3.jpg' %})"
       ></a>
       <div class="text">
         <h3 class="heading">
@@ -118,7 +119,7 @@
 
   <div
     class="sidebar-box subs-wrap img py-4"
-    style="background-image: url(images/bg_1.jpg)"
+    style="background-image: url({% static 'images/bg_1.jpg' %})"
   >
     <div class="overlay"></div>
     <h3 class="mb-4 sidebar-heading">Newsletter</h3>
