@@ -26,18 +26,30 @@ msgstr ""
 msgid "English"
 msgstr ""
 
-#: .\templates\pages\details.html:31
+#: .\templates\pages\home.html:17
 msgid "Ishonish bu qalb bilan sevishdir"
 msgstr "A Loving Heart is the Truest Wisdom"
 
-#: .\templates\pages\details.html:32
+#: .\templates\pages\home.html:31
 msgid "Ularning joyidan Duden nomli kichik daryo oqib o'tadi va uni zarur regelialiya bilan ta'minlaydi."
 msgstr "A small river named Duden flows by their place and supplies it with the necessary regelialia."
 
-#: .\templates\pages\home.html:67
-msgid "Sevgiga etibor ber"
-msgstr "A Loving Heart is the Truest great"
+#: .\templates\pages\res.html:35
+msgid "Ko'proq o'qish"
+msgstr "Read more"
 
-#: .\templates\pages\home.html:81
-msgid "Hayotda yaxshi yasha va yur"
-msgstr "A small river named Duden flows by their place"
+#: .\templates\pages\home.html:50
+msgid "Baxt uchun yasha"
+msgstr "Live for happines"
+
+#: .\templates\pages\home.html:64
+msgid "Hayotda faqat ota onang uchun yasha va shunda haqiqiy baxtga yetasan"
+msgstr "In this world live for only your parent as you reach real happines in your life"
+
+#: .\templates\pages\home.html:83
+msgid "Hayot boshqa rejalar bilan band bo'lganingizda sodir bo'ladi"
+msgstr "Life is what happens when you’re busy making other plans"
+
+#: .\templates\pages\home.html:97
+msgid "Hayotdagi muvaffaqiyatsizliklarning ko'pchiligi taslim bo'lganida muvaffaqiyatga qanchalik yaqin ekanliklarini tushunmagan odamlardir"
+msgstr "Many of life’s failures are people who did not realize how close they were to success when they gave up"
