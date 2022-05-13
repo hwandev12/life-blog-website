@@ -4,5 +4,5 @@ from modeltranslation.admin import TranslationAdmin
 
 @admin.register(Blog)
 class BlogAdmin(TranslationAdmin):
-    prepopulated_fields = {'slug': ('header',)}
+    group_fieldsets = True
 
